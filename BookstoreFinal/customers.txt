@@ -1,0 +1,8 @@
+harnoor, harnoor, 2770
+uday, uday, 2402
+person, person, 0
+chris, chris, 3303
+dolly, white, 0
+dwed, dwd, 10
+ken, ken, 1119
+gurpreet, gurpreet, 0
